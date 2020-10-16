@@ -13,3 +13,4 @@ export default async (name = 'default'): Promise<Connection> => {
     }),
   );
 };
+
